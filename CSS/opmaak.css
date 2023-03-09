@@ -10,8 +10,11 @@ body {
 
 header div {
   height: 150px;
-  background-color: #FFFBFB;
+  background-image: url('https://coderclass.nl/wp-content/uploads/2016/06/Metis-CoderClass-Logo.png');
   text-align: center;
+  background-repeat: no-repeat;
+  background-size: 100% 20%;
+  background-attachment: fixed;
 }
 
 section {
